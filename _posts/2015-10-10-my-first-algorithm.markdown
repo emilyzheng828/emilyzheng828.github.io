@@ -10,7 +10,7 @@ We saw small parts of the leaves, branches, the pockets: They kept repeating the
 
 So what are we going to use patterns or algorithms to produce....the result?
 
-Here is my first [bubble sort].
+Here is my first [bubble sort][bubble-sort]
 
 {% highlight ruby %}
 def bubble_sort(array)
@@ -24,14 +24,9 @@ def bubble_sort(array)
    end
    array
 end
-
-def print_hi(name)
-  puts "Hi, #{name}"
-  end
-  print_hi('Tom')
-  #=> prints 'Hi, Tom' to STDOUT.
+random_num = [1, 55, -1, 33, 77, -100, 2000, 85, 2,50, 1101]
   {% endhighlight %}
 
-[bubble sort] : //https://en.wikipedia.org/wiki/Bubble_sort
+[bubble-sort]: //https://en.wikipedia.org/wiki/Bubble_sort
 
 
