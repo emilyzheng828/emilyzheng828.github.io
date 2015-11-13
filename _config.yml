@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: RRZ's Blueberry field 
+email: emily.zheng828@gmail.com
+description: Life is like collecting blueberries. If you are given one empty box, you are in control what you want to put in it.
+  Here you will see something in my box now. Learning new things Ruby Computer 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: Emily_RRZ
+github_username:  emilyzheng828
+
+# Build settings
+timezone: Europe/London
+markdown: kramdown
