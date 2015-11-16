@@ -8,8 +8,7 @@
 # Site settings
 title: RRZ's Blueberry field 
 email: emily.zheng828@gmail.com
-description: Life is like collecting blueberries in a big beautiful field. Imagine you are given one empty box, aren't you in control what you want to put in it?
-  Here, you will see something in my box. Learning new things. Enjoy! 
+description: Learning Ruby Internet Computer Science Power of now 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: Emily_RRZ
