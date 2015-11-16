@@ -1,0 +1,36 @@
+---
+layout: post
+title: "I was in Prison today"
+date: 2015-11-03 12:00:00 +0000
+categories: learning
+---
+###Yes, I was in prison.
+
+Alright, it was a restaurant called [Clink](http://theclinkcharity.org/) in the prison. 
+
+It is a charity restaurant to support the prisoners to learn something new and get a qualification towards chef when they gain their freedom again.
+Food was severed and cooked by current prisoners. I am not going to dig out what they have done before, but the food they made was amazing.
+
+Why did I bring this up in my blog?
+
+Because that sometimes in life, we need to make a prison for ourselves. To focus, to think especially to learn new things. We do not neccessary need to commit something bad to get inside, we just need to *create* our own.
+
+Like what I am creating my own now:
+
+- No mobile internet or checking phones while learning
+- No social network time while learning.
+- No distractions and you know what yours are! 
+
+Something similar to this cells I am going to talk about today is *stack*
+In computer science, a stack or LIFO (last in, first out) is an abstract data type that serves as a collection of elements, with two principal operations: push, which adds an element to the collection, and pop, which removes the last element that was added
+The two operations applicable to all stacks are:
+
+- a push operation, in which a data item is placed at the location pointed to by the stack pointer, and the address in the stack pointer is adjusted by the size of the data item;
+- a pop or pull operation: a data item at the current location pointed to by the stack pointer is removed, and the stack pointer is adjusted by the size of the data item.
+![IMAGE ALT TEXT](http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Lifo_stack.png/700px-Lifo_stack.png)
+
+Another thing I want to mention is *Stack Pointer*, a small register that stores the address of the last program request in a stack. Every stack has a fixed location in memor at which it begins. As data items are added to the stach, the stack pointer is displaced to indicate the current extent of the stack.
+
+If a pop operationon the stack causes the stack pointer to move past the origin of the stack, a *stackunderflow* occurs. If a push operation causes the stack pointer to increment or decreent beyond the maximum extent of the stack, a *stack overlfow* occurs.
+
+
