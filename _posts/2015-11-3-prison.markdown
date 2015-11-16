@@ -21,16 +21,19 @@ Like what I am creating my own now:
 - No social network time while learning.
 - No distractions and you know what yours are! 
 
-Something similar to this cells I am going to talk about today is *stack*
+Something similar to this cell-thing that I am going to talk about today is *stack*
+
 In computer science, a stack or LIFO (last in, first out) is an abstract data type that serves as a collection of elements, with two principal operations: push, which adds an element to the collection, and pop, which removes the last element that was added
+
 The two operations applicable to all stacks are:
 
 - a push operation, in which a data item is placed at the location pointed to by the stack pointer, and the address in the stack pointer is adjusted by the size of the data item;
 - a pop or pull operation: a data item at the current location pointed to by the stack pointer is removed, and the stack pointer is adjusted by the size of the data item.
+
 ![IMAGE ALT TEXT](http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Lifo_stack.png/700px-Lifo_stack.png)
 
 Another thing I want to mention is *Stack Pointer*, a small register that stores the address of the last program request in a stack. Every stack has a fixed location in memor at which it begins. As data items are added to the stach, the stack pointer is displaced to indicate the current extent of the stack.
 
 If a pop operationon the stack causes the stack pointer to move past the origin of the stack, a *stackunderflow* occurs. If a push operation causes the stack pointer to increment or decreent beyond the maximum extent of the stack, a *stack overlfow* occurs.
 
-
+So maybe you can imagine it as prison cells, maybe you will decide how you can be more focused while doing anything in life. Be efficient!
