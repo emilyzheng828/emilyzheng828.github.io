@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I was in Prison today"
+title: "I was in Prison "
 date: 2015-11-03 12:00:00 +0000
 categories: learning
 ---
@@ -8,17 +8,17 @@ categories: learning
 
 Alright, it was a restaurant called [Clink](http://theclinkcharity.org/) in the prison. 
 
-It is a charity restaurant to support the prisoners to learn something new and get a qualification towards chef when they gain their freedom again.
-Food was severed and cooked by current prisoners. I am not going to dig out what they have done before, but the food they made was amazing.
+It is a charity restaurant to support the prisoners to learn something new and to get a qualifications.
+Food was severed and cooked by current prisoners. No matter what they have done before, the food they made was amazing with great presentation.
 
-Why did I bring this up in my blog?
+Why do I bring this up in my blog?
 
-Because that sometimes in life, we need to make a prison for ourselves. To focus, to think especially to learn new things. We do not neccessary need to commit something bad to get inside, we just need to *create* our own.
+Because I am thinking that sometimes in life, we need to make a prison for ourselves. To focus, to think, especially to learn new things. We do not neccessary need to commit something bad to get inside, we just need to *create* our own.
 
-Like what I am creating my own now:
+Like what I am creating for myself now:
 
 - No mobile internet or checking phones while learning
-- No social network time while learning.
+- No social network while learning.
 - No distractions and you know what yours are! 
 
 Something similar to this cell-thing that I am going to talk about today is *stack*
@@ -36,4 +36,4 @@ Another thing I want to mention is *Stack Pointer*, a small register that stores
 
 If a pop operationon the stack causes the stack pointer to move past the origin of the stack, a *stackunderflow* occurs. If a push operation causes the stack pointer to increment or decreent beyond the maximum extent of the stack, a *stack overlfow* occurs.
 
-So maybe you can imagine it as prison cells, maybe you will decide how you can be more focused while doing anything in life. Be efficient!
+Maybe you can imagine stack as prison cells,  maybe you will decide how you can be more focused while doing anything in life. Be efficient!
