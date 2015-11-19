@@ -1,0 +1,28 @@
+---
+layout: post
+title: Don't blame yourself if you fail
+date: 2015-11-19 12:00:00 +0000
+categories: learning
+---
+*Day=100-4*
+
+#What shall we do if we fail?
+
+At least, don't blame yourself. Blame yourself if you did not try, try again, again and again.
+
+As again is also 'A gain.'
+
+It took me 3 whole weeks to finish RubyKoans
+the first time. I blamed myself too much at the beginning, as in why I can't
+figure out something very simple? Am I too stupid for this? Am I wasting my time and other people's time?
+
+Well, how did I face the down moment at the end? The first time I bumped into 'Me being stupid" situation (fortunately it did not last too long), is to step away from the situation for a few hours, do something fun and refresh myself, then come back to the problem. 
+
+Do something that makes you feel good: massage, music, nice food...or even a haircut.
+Also do something that you are good at will make you feel confident again. Once your energy is back, conquer the problem.
+
+Anyway, I am doing rubykoans the second time now. 3 hours for 100 koan tasks. Not bad, right? This means that once you sovle a problem, the problem itself becomes something that can make you feel good and proud. Next time, if I face another problem, I might just do Rubykoans again, because we can always find answers from the very basic or get my conficence back.
+
+So, really, don't blame yourself if you fail, blame yourself if you did not give it another try, again and again, for anything in life.
+
+
