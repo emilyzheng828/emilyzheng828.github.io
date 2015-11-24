@@ -1,0 +1,24 @@
+---
+layout: post
+title: post
+date: 2015-11-23 12:00:00 +0000
+categories: learning             
+--- 
+#Block, Proc and Lambda   
+Blocks, Procs and lambdas are one of the most powerful aspects of Ruby, but also the most confusing one for me. So today is a good day to learn it.   
+#Block is a section of code which is grouped together.There are two ways to write blocks.        
+- do..end statement       
+- curly braces {}
+
+All the code between {} or do end is assembled into an anonymous method(a method without any name). Block can use this way emulate a type of loop.
+ Blocks are considered objects in the Ruby Programming language, and by default all funcitons accepted an implicit block argument. With blocks, you can group a set of instructions together so that they can be passed around your program.
+Block arguments are a set of variables surrouded by pipe characters and separated b commas.
+|x|, |x,y|, and |up, down, allarround| The names between the pipe characters are the arguments. They are just like the named arguments to any other method, but have a slightly different sytax.
+
+#Proc objects are blocks of code that have been bound to a set of local variables. Procs are objects, blocks are not. You can pass multiple procs to methods. Procs are invisible to *return*.
+
+#Lambda are different 'flavour' of procs. Lambda check number of arguments, Procs do not.
+
+Lambda and procs treat *return* keywords differently. Lambdas use method semantics when handling parameters, procs use assignment semantics when handling parameters.
+
+VIM today $ and 0 end and beginning of a line
