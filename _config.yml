@@ -7,7 +7,6 @@
 
 # Site settings
 title: RRZ's Blueberry field 
-email: emily.zheng828@gmail.com
 description: Learning Ruby Internet Computer Science Power of now 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
