@@ -19,3 +19,11 @@ I am pretty sure that it is not easy to do. At least for me, it is hard. But I a
 Being busy is good, but we also need time to have a moment to think. There is no rush to do anything, to finish my Ruby Koans, finish a roman numeral kata, to travel from one place to another or to finish a course. We need to learn to pause and understand something we don't understand, we need a moment for our thoughts to grow, we need to be patient.
 
 Try to pause for a moment, then refocus!
+
+
+#VIM learning today
+
+**cc** change(replace) entire line
+**yy** yank(copy) a line
+**gg** jump to the top
+**dd** delete(cut) a line
