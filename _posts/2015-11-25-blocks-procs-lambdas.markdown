@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Block Proc and Lambda
+title: "Block Proc and Lambda"
 date: 2015-11-25 8:00:00 +0000
 ---
 
@@ -34,8 +34,17 @@ x outside the block : 100
 
 A block is just part of the *syntax* of a method call. It doesn't mean anything on a standalone basis and can only appear in argument lists.
 
+{% highlight ruby %}
+array = [1,2,3,4]
+array.collect! do |n|
+n**2
+end
+puts array.inspect
+# -> [1,4,9.16]
+{% endhighlight %}
+
 #Vim learning today
 - edit a file until you like it
 - *:w another-file* to use it as a starting point for *another-file*
 - if the file exits already, you need to add ! to overwrite it if you want
-- *:e another-file* to poslih up *another-file*
+- *:e another-file* to polish up *another-file*

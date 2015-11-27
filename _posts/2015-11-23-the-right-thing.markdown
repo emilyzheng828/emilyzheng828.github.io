@@ -4,9 +4,9 @@ title: The right thing
 date: 2015-11-23 12:00:00 +0000
 ---
 
- People always say " it is the right thing to do." " I hope we made the best choices"
+ People always say " it is the right thing to do." " I hope we made the best choice"
 
- But what is the right thing?
+# But what is the right thing?
 
  I met a friend, who is a super rich lawyer. He told me that he did all the right things so he's got what he has now.
 
@@ -17,3 +17,5 @@ date: 2015-11-23 12:00:00 +0000
  Interestedly, when I am travelling, or even revisiting London, I see things that I want and don't want in my life.
 
  So what is the right thing to do?
+ 
+**Collect the right berries in your box!**
