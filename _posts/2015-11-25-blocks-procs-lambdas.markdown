@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Block Proc and Lambda"
+title: "^Block Proc and Lambda"
 date: 2015-11-25 8:00:00 +0000
 ---
 

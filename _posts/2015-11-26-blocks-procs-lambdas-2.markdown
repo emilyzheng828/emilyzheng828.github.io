@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Procs"
+title: "Blocks ^Procs Lambdas"
 date: 2015-11-26 12:00:00 +0000
 ---
 # 2 PROC
