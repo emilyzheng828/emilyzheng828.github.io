@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Max"
+date: 2015-12-2 9:00:00 +0000
+---
+Max ia a new born baby. She should be special as her father is Mark Zukerberg, founder of facebook.
+
+No matter if this is a PR event or an excited moment for a dad, his letter to Max is showing a parent with power.
+'We will give 99% of our Facebook shars - currently about $45 billion during our lives to join many others in improving this world for the next generation.'
+
+How many parents can say this? I am glad they did, as a powerful parent, they are trying to do something good proactively.
+
+On the other hand, I wish that Max can have a normal life. ' A new politician was born!', as one of my friends quoted. I hope she won't live under huge pressure and extremely high expectations from this Jewish father and a Asian tiger mom.
+
+Enjoy life Max. 
+
+And please tell your parent that keep some deseases on earth, as we all need to die one day.
+
+#Vim learning today
+How to show, set and reset vim's variables:
+
+- **:set** shows vars different from defaults
+- **:set all** all values
+- **:set foo?** shows the value of foo
+- **:setlocal foo** only the current buffer
+- **verbose set foo?** tells you where it was last set!
