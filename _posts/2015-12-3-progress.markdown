@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2015-12-3 9:00:00 +0000
-title: "Steady progress"
+title: "Progress"
 ---
 #How to check your own progress?
 
