@@ -30,3 +30,5 @@ Stay focused, keep doing the little things.
 #Vim learning today
 Select a few lines as a block:
 **shift + V** then paste or do any other functions you need to
+
+Or simply y + p
