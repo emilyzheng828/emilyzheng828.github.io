@@ -9,17 +9,17 @@ We all aspire to mastery, but the path is always long and sometimes rocky, and i
 
 I FEEL IT!
 
-Also trying to figure out if I am a **dabbler**
+A check list to figure out if I am a **dabbler**
 A dabbler approaches each new thing, career opportunity or relationship with enormous enthusiasm. He or she loves to try new things:
-- Not focused enough
-- Can't wait for new challenges
-- Easily distracted by new opportunities
-- Never finish one thing in his/her life 
+- Not focused enough <br>
+- Can't wait for new challenges <br>
+- Easily distracted by new opportunities <br>
+- Never finish one thing in his/her life  <br>
 - Eventually, he or she will give up and do something else
 
 ![Dabbler](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMzNYAuqKNINlnVNS9rZomuqUnqN3LqjwMjJydtatS83GeUhE_)
 
-Again, I am doing a self-analysis here, to see what I can change to make sure that I am on track with any practices in life.
+Again, I am doing a self-analysis here, to see what I can do to make sure that I am on track with any practices in life.
 
 Am I a dabbler ? Can I finish this challenge? How about the next one? What about next year? Am I committing myself fully, even towards the next 5 years?
 
@@ -29,4 +29,4 @@ Stay focused, keep doing the little things.
 
 #Vim learning today
 Select a few lines as a block:
-**shift + V**
+**shift + V** then paste or do any other functions you need to
