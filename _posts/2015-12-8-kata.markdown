@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Kata"
+date: 2015-12-7 12:00:00 +0000
+---
+Kata (型 or 形 literally: "form"?), a Japanese word, are the detailed choreographed patterns of movements practised either solo or in pairs. The term form is used for the corresponding concept in non-Japanese martial arts in general.
+
+Han character[edit]
+型 (radical 32 土+6, 9 strokes, cangjie input 一弓土 (MNG), four-corner 12104, composition ⿱刑土)
+- pattern, model, type
+- law
+- mold
+
+Kata is a term used by some programmers in the Software Craftsmanship movement. Computer programmers who call themselves "Software Craftsmen" will write 'Kata' - small snippets of code that they write in one sitting, sometimes repeatedly, often daily, in order to build muscle memory and practise their craft, much like a soldier, a musician, a doctor or a dancer.
+
+The first time I tried my Roman numeral exercise - it took me a day. From understanding the concept to carrying it out with codes, without any testing lines.
+
+The second time I checked out the real Ruby Roman numeral Kata, it took me another day. This time, I studied a few videos of RNK properly with tests.
+
+The **first time** I practiced the Kata, it took me half day, very slow.
+
+The second time I practiced this kata, one hour, then half an hour then 20 minutes ....then shorter and shorter...
+
+I tried to do this in the morning, the first thing before doing any other excercises. The practice will go on... 
+
+#Vim learning today
+Manoeuvre!
+
+- h , j, k, l
+- same line *0,$*
+- *ctrl+u ctrl+d* up and down
+- *G* bottom of the file
+- *gg* beginning of the file
+- *22 gg* go to line 22
+
