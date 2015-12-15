@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Let go"
+date: 2015-12-15 12:00:00 +0000
+---
+
+Why let go?
+
+We have so many things we can't let go. 
+
+Past success, past failure, past painful experience, future reputation, future worriness.....
+
+It is not easy, I know. And all the time, we are trying to do is to collect. Collect things in our life until we can't breath anymore. Properties we need to look after, works need to be done, food to be finished, people need to be taken care of.
+
+If you are having a cup of tea, how can you have a refill? 
+
+You need to empty the cup first. Take your time to do it.
+
+Again, be patient.
+
+#Vim learning today
+
+Editing Vim Style
+
+- d starts the delete operation.
+- dw will delete a word.
+- d0 will delete to the beginning of a line.
+- d$ will delete to the end of a line.
+- dgg will delete to the beginning of the file.
+- dG will delete to the end of the file.
+- u will undo the last operation.
+- Ctrl-r will redo the last undo.
