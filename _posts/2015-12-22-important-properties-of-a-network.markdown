@@ -12,3 +12,13 @@ The ideal network design would work well with very large networks and also be ef
 3. Robustness
 A network should continue to operate even if nodes or links fail.
 
+#Vim learning today
+ **Changing Case**
+guu                             : lowercase line
+gUU                             : uppercase line
+Vu                              : lowercase line
+VU                              : uppercase line
+g~~                             : flip case line
+vEU                             : Upper Case Word
+vE~                             : Flip Case Word
+ggguG                           : lowercase entire 
