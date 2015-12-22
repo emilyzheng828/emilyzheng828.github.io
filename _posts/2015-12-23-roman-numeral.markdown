@@ -4,7 +4,6 @@ date: 2015-12-23 12:00:00 +0000
 title: "Roman numeral"
 ---
 
-{% highlight ruby %}
 
 ROMAN_CONCOLLECTOR = [
 	[1000, "M"],
@@ -51,5 +50,4 @@ def roman_convert(number)
 	end
 end
 
-{% endhighlight %}
 
