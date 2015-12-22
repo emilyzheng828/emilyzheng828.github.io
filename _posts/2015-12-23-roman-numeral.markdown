@@ -5,6 +5,7 @@ title: "Roman numeral"
 ---
 
 {% highlight ruby %}
+
 ROMAN_CONCOLLECTOR = [
 	[1000, "M"],
 	[900, "CM"],
@@ -49,5 +50,6 @@ def roman_convert(number)
 		end
 	end
 end
+
 {% endhighlight %}
 
