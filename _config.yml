@@ -9,10 +9,9 @@
 title: RRZ's Blueberry field 
 description: Learning Ruby Internet Computer Science Power of now 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: Emily_RRZ
 github_username:  emilyzheng828
 
 # Build settings
 timezone: Europe/London
-markdown: kramdown
+markdown: redcarpet
